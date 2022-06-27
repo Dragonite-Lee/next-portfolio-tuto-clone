@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <Layout>
       <Head> {/*여기가 index.js가 홈이고 pages폴더안에 만들면 root기능을 함 /about-me하면 이동하게되는거임 */}
-        <title>빡코딩 포트폴리오</title>
+        <title>망망이 포트폴리오</title>
         <meta name="description" content="오늘도 빡코딩!!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
